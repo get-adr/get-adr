@@ -1,7 +1,10 @@
 ![Header](./github-header-image.png)
 
 🔬 I’m focused on Modern Collaboration with Microsoft SharePoint, Teams and auttomation with Power Platform or Azure Automation.
-⌨️ Together with [Marvin](https://github.com/MarvinBangert) I'm writing on https://cloudkumpel.de 
+⌨️ Together with [Marvin](https://github.com/MarvinBangert) I'm writing on https://cloudkumpel.de
+
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,azure,md,github,arduino,raspberrypi,docker)](https://skillicons.dev)
+
 
 <!--
 **get-adr/get-adr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
