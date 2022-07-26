@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-🔬 I’m focused on Modern Collaboration with Microsoft SharePoint, Teams and auttomation with Power Platform or Azure Automation.  
+🔬 I’m focused on Modern Collaboration with Microsoft SharePoint, Teams and automation with Power Platform or Azure Automation.  
 ⌨️ Together with [Marvin](https://github.com/MarvinBangert) I'm writing on https://cloudkumpel.de  
 📣 Slides from my public sessions can be found here: https://github.com/get-adr/PublicSpeaking  
 
