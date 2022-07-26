@@ -3,7 +3,7 @@
 - 🔬 I’m focused on Modern Collaboration with Microsoft SharePoint, Teams and auttomation with Power Platform or Azure Automation.
 - ⌨️ Together with [Marvin](https://github.com/MarvinBangert) I'm writing on https://cloudkumpel.de
 
-- [![My Skills](https://skillicons.dev/icons?i=powershell,vscode,azure,md,github,arduino,raspberrypi,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,azure,md,github,arduino,raspberrypi,docker)](https://skillicons.dev)
 
 
 <!--
