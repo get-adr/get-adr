@@ -13,6 +13,8 @@ My Skills:
 [![js badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() 
 [![MS SharePoint badge](https://img.shields.io/badge/Microsoft_SharePoint-038387?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) 
 [![MS Teams badge](https://img.shields.io/badge/Microsoft_Teams-464EB8?style=for-the-badge&logo=microsoft-Teams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software/) 
+[![MS Power Automate badge](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power%20automate&logoColor=white)](https://powerautomate.microsoft.com/) 
+[![MS Power Automate badge](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=power%20apps&logoColor=white)](https://powerapps.microsoft.com/) 
 [![MS Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) 
 
 
